@@ -23,9 +23,11 @@ Here are some of the tools and skills I’m exploring:
 ---
 
 ### 📊 GitHub Stats
-![Samacube's GitHub stats](https://github-readme-stats.vercel.app/api?username=samacube-bus&show_icons=true&theme=tokyonight)  
+![Samcubiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=samcubiz&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=samacube-bus&theme=tokyonight&hide_border=true&border_radius=6)  
+![GitHub Streak](https://streak-stats.demolab.com?user=samcubiz&theme=tokyonight&hide_border=true&border_radius=6)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcubiz&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -35,4 +37,6 @@ Here are some of the tools and skills I’m exploring:
 
 ---
 
-⭐ Thanks for stopping by! This profile will grow as I learn more 🚀
+⭐ Thanks for stopping by! This profile will grow as I learn more 🚀  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=samcubiz)
